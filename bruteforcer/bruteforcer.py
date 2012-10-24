@@ -11,7 +11,6 @@
 #	  Rogério Carvalho Schneider (http://stockrt.github.com)
 
 import mechanize
-import fileinput
 
 
 # Parâmetros do formulário
