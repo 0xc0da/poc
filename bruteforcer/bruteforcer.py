@@ -1,6 +1,6 @@
 #!-*- coding: utf8 -*-
 #
-# PoC - Brute forcer "quick and dirty" para em formularios web.
+# PoC - Brute forcer "quick and dirty" para formularios web.
 # Versao: 1.0 - 24/Out/2012
 #
 # Daniel Marques - daniel /arroba\ codalabs /ponto\ net
